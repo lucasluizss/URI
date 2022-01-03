@@ -6,10 +6,16 @@
 
 ## Begginner
 
-| Id |    Problem           |       Language        |
-|:--:|:--------------------:|:---------------------:|
-|[1000](./01_BEGINNER/JavaScript/1000.js)|Hello World|JavaScript|
-|[1001](./01_BEGINNER/JavaScript/1001.js)|Extremely Basic|JavaScript|
+| Id |               Problem           |                                                  Language                              |
+|:--:|:----------------------------------------:|:-----------------------------------------------------------------------------:|
+|[1000](./01_BEGINNER/JavaScript/1000.js)|[Hello World](https://www.beecrowd.com.br/judge/en/problems/view/1001)|JavaScript|
+|[1001](./01_BEGINNER/JavaScript/1001.js)|[Extremely Basic](https://www.beecrowd.com.br/judge/en/problems/view/1001)|JavaScript|
+|[1002](./01_BEGINNER/JavaScript/1002.js)|[Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002)|JavaScript|
+|[1003](./01_BEGINNER/JavaScript/1003.js)|[Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003)|JavaScript|
+|[1004](./01_BEGINNER/JavaScript/1004.js)|[Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004)|JavaScript|
+|[1005](./01_BEGINNER/JavaScript/1005.js)|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005)|JavaScript|
+|[1006](./01_BEGINNER/JavaScript/1006.js)|[Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006)|JavaScript|
+|[1007](./01_BEGINNER/JavaScript/1007.js)|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)|JavaScript|
 
 # Running 🏃
 

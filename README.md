@@ -16,6 +16,7 @@
 |[1005](./01_BEGINNER/JavaScript/1005.js)|[Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005)|JavaScript|
 |[1006](./01_BEGINNER/JavaScript/1006.js)|[Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006)|JavaScript|
 |[1007](./01_BEGINNER/JavaScript/1007.js)|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)|JavaScript|
+|[1008](./01_BEGINNER/JavaScript/1008.js)|[Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008)|JavaScript|
 
 # Running 🏃
 

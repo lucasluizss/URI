@@ -18,6 +18,7 @@
 |[1007](./01_BEGINNER/JavaScript/1007.js)|[Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)|JavaScript|
 |[1008](./01_BEGINNER/JavaScript/1008.js)|[Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008)|JavaScript|
 |[1009](./01_BEGINNER/JavaScript/1009.js)|[Salary with Bonus](https://www.beecrowd.com.br/judge/en/problems/view/1009)|JavaScript|
+|[1010](./01_BEGINNER/JavaScript/1010.js)|[Simple Calculate](https://www.beecrowd.com.br/judge/en/problems/view/1010)|JavaScript|
 
 # Running 🏃
 
